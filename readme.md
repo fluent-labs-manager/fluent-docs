@@ -7,6 +7,7 @@
 ## Data flow diagram
 
 DF-диаграмму можно посмотреть [тут (.svg)](docs/dfd/fluent_dfd.svg)
+
 DF-диаграмму можно посмотреть [тут (.png)](docs/dfd/fluent_dfd.png)
 
 ## Presentation
